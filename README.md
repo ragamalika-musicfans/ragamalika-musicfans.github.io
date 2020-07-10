@@ -1,39 +1,38 @@
-# Namaskar to All
+# Namaskar to all
 
 <img src="cover.png"/>
 
-# Welcome To:
+# Welcome to:
 
 <img src="chatroom.png" />
 
 
-# Date of creation of the room : 15 / 01 / 2020 ,Wednesday
+# Date of creation of the room: 15 / 01 / 2020, Wednesday
 
-# About the room :
+# About the room:
 
-Ragamalika (pronounced rāgamālika) , is the chat room created(Music Fans SE) with the intention of dedication to the [Music of India](https://en.wikipedia.org/wiki/Music_of_India) with more priority to [Indian Classical Music](https://en.wikipedia.org/wiki/Indian_classical_music) .
+Ragamalika (pronounced rāgamālika) is the chatroom (linked to Music Fans SE) dedicated to the [music of India](https://en.wikipedia.org/wiki/Music_of_India) with priority given to [Indian classical music](https://en.wikipedia.org/wiki/Indian_classical_music).
 
-## Chatroom Rules
+## Chatroom rules
 
-## On-Topic :
+## On-topic:
 
--   Theoretical and Technical aspect of Indian Classical Music.
--   Discussion on other genres in [Music of India](https://en.wikipedia.org/wiki/Music_of_India) , other than Indian Classical Music.
--   Music appreciation
--   Learning
+-   Discussions on the theoretical and technical aspects of Indian classical music.
+-   Discussions on other genres of the [music of India](https://en.wikipedia.org/wiki/Music_of_India), other than Indian classical music.
+-   Music appreciation and learning
 
-## Allowed :
+## Allowed:
 
--   As the part of vocal training purposes ,sharing of vocal recordings are allowed here.
--   Presentation of own work are allowed here ( both instrumental and vocal).
--   Discussion on the previous questions once answered on the main sites are indian-classical , raga , filmi are allowed here.
+-   As a part of vocal/instrumental training purposes, sharing of vocal/instrumental recordings are allowed here.
+-   Presentation of one's own work is allowed here (both vocal and instrumental).
+-   Discussions on questions on the main site under the tags (indian-classical), (raga) and (filmi) are allowed here.
 
-## Not -Allowed
+## Not allowed:
 
--   This room should not be used for any kind of Entertainment purposes.
--   Unnecessary comments/ starring (star as interest) to a particular post are considered as indisciplinary actions .
-(unnecessary starring should be avoided : If it doesn’t add anything educational/new with the purpose of functioning of this chat-room).
--   Discussion on other Music genres which does not come under the [Music of India](https://en.wikipedia.org/wiki/Music_of_India) will not allow here.It should be done in other rooms of Music Fans SE.
--   Discussion on the formation of answers on questions that just posted on the main site ( question -answering) ( indian-classical , raga , filmi ) are not allowed here.
--   Unnecessary pings to people without having any reasons will consider as indisciplinary actions.
--   Presentation of own works shared by one user will not allowed to share further without the permission of respective owners.
+-   This room is not for any one person's personal entertainment.
+-   Unnecessary comments and unnecessary starring ("star as interesting") of a post are to be strictly avoided.
+Do not star posts if they don't add anything educational/new in line with the purpose of the chatroom. Room owners will remove stars found to be "noise".
+-   Discussions on other music genres which does not come under the [music of India](https://en.wikipedia.org/wiki/Music_of_India) will not be allowed here. It can be done in other rooms of Music Fans SE.
+-   Discussions on how to formulate answers to questions posted on the main site are not allowed here.
+-   Do not flood the room with your content. If you presented one of your own works, take permission from a room owner before sharing any more samples.
+-   Unnecessarily pinging users for no good reason will be viewed as indisciplined behaviour. Room owners can and will kick diruptive users out of the room.
